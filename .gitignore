@@ -1,0 +1,12 @@
+node_modules/
+dist/
+*.log
+.DS_Store
+.vscode/
+.idea/
+*.tsbuildinfo
+coverage/
+.vitest/
+quick-test.mjs
+
+
